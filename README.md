@@ -1,4 +1,4 @@
-# Hackathon-Projects
+# HackFS- POAP project
 Branch for Hackathon Projects
 
 PROJECT FOR ETHGLOBAL HACKATHON
